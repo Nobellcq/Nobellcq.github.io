@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nobellcq.github.io</id>
     <title>Gridea</title>
-    <updated>2020-08-06T17:16:30.045Z</updated>
+    <updated>2020-08-08T05:52:45.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nobellcq.github.io"/>
     <link rel="self" href="https://Nobellcq.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://Nobellcq.github.io/images/avatar.png</logo>
     <icon>https://Nobellcq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[8.9有感]]></title>
+        <id>https://Nobellcq.github.io/post/89-you-gan/</id>
+        <link href="https://Nobellcq.github.io/post/89-you-gan/">
+        </link>
+        <updated>2020-08-08T05:50:06.000Z</updated>
+        <content type="html"><![CDATA[<p>自责的心不要有，接纳一切不完美，这才是现实的<br>
+你都恨憎自己，让别人如何爱你<br>
+但这不是你破坏自律的理由<br>
+中庸之道解决了我从小到大很多不解的看法</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8.8有感，强烈意愿成为一个解决他人需求的人]]></title>
+        <id>https://Nobellcq.github.io/post/88-you-gan-qiang-lie-yi-yuan-cheng-wei-yi-ge-jie-jue-ta-ren-xu-qiu-de-ren/</id>
+        <link href="https://Nobellcq.github.io/post/88-you-gan-qiang-lie-yi-yuan-cheng-wei-yi-ge-jie-jue-ta-ren-xu-qiu-de-ren/">
+        </link>
+        <updated>2020-08-07T16:48:19.000Z</updated>
+        <content type="html"><![CDATA[<p>一直在摸索自我的职业(定义:为之付出过努力的都算)<br>
+高中想成为一名同声传译，这是英语方面较为高的一个水准，薪资也高。基于自己的兴趣与能力，且不知外界的能力。<br>
+大学基于自己的专业，决定成为一个验船师，或者CAD，生活所迫<br>
+再后来，基于自己的海洋方面的兴趣，成为一个海洋方面的学者，什么都行，海洋装备方面，一直到2019的9月份还在纠结<br>
+再后来开始基于金钱，向金融，但是这个真的难<br>
+基于技术，让我尝到甜头，成为一个开发者，基于小方面的成就，选择android<br>
+现在基于一个更广的交际，更好扩张，选择产品经理</p>
+<p>学习一个新事物，如果你想确有建树在此方面，那么你就不要去收集这方面的资料，不要从前人的车辙里学习。那些东西会限制你的框架思想，限制你的思想自由，你只作为一个知识的拿来主义者，纯粹的接收者，没有自己的考量在里头，要如同一张白纸。<br>
+作为leader，首先你自己不能犯迷糊</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8.7有感]]></title>
         <id>https://Nobellcq.github.io/post/87-you-gan/</id>
