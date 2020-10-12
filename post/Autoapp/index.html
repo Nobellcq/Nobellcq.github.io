@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://Nobellcq.github.io/favicon.ico?v=1602445160566">
+<link rel="shortcut icon" href="https://Nobellcq.github.io/favicon.ico?v=1602474509312">
 <link rel="stylesheet" href="https://Nobellcq.github.io/styles/main.css">
 
 
@@ -18,13 +18,13 @@
 
 
 
-    <meta name="description" content="
+    <meta name="description" content="第一款基于Accessibility的自动化Android app
 
-bug难点及更新及实现的技术
-1、首页ui加载的错误问题，滑动出错
-2、手动实现懒加载，尽量提升app启动加载速度，冷启动是个啥
-3、
-..." />
+第二款批量开发的自动化app
+
+更新:
+1、解决截图问题在androidx中crash的问题，实际是因为sdk29有问题，android legacy兼容问题
+2、唯一标..." />
     <meta name="keywords" content="" />
   </head>
   <body>
@@ -34,7 +34,7 @@ bug难点及更新及实现的技术
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://Nobellcq.github.io">
-        <img src="https://Nobellcq.github.io/images/avatar.png?v=1602445160566" class="site-logo">
+        <img src="https://Nobellcq.github.io/images/avatar.png?v=1602474509312" class="site-logo">
         <h1 class="site-title">Gridea</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -100,12 +100,35 @@ bug难点及更新及实现的技术
             <div class="post-date">2020-08-12</div>
             
             <div class="post-content" v-pre>
-              <p><img src="https://Nobellcq.github.io/post-images/1601752381759.png" alt="" loading="lazy"><br>
+              <p>第一款基于Accessibility的自动化Android app<br>
 <img src="https://Nobellcq.github.io/post-images/1601752392141.png" alt="" loading="lazy"></p>
-<p>bug难点及更新及实现的技术<br>
-1、首页ui加载的错误问题，滑动出错<br>
+<p>第二款批量开发的自动化app<br>
+<img src="https://Nobellcq.github.io/post-images/1601752381759.png" alt="" loading="lazy"></p>
+<p><strong>更新:</strong><br>
+1、解决截图问题在androidx中crash的问题，实际是因为sdk29有问题，android legacy兼容问题<br>
+2、唯一标识符获取策略的失误，导致用户在升级系统后，验证码激活失败，原来的策略是获取SN码和IMEI码，但是sn码在android9以上就获取不到了，导致很多9升级10的用户，本地设备特征校验不通过，导致的激活失败。以及还有一个问题第一次运行应用，是获取不到sn码的，第二次才可以？所以导致的激活秒掉的问题？<br>
+3、channel为空,notification 在sdk26+ 出问题的其中一个表现<br>
+4、加了外部依赖，实现了线程池<br>
+5、实现了懒加载，冷启动，提高了首页加载速度<br>
+6、混淆问题导致的sqlite保存失败<br>
+7、不恰当写法导致的内存泄露问题，handler强引用改弱引用，bitmap问题，accessibility recycle回收问题，currentThread.close 问题</p>
+<p><strong>实现的技术:</strong><br>
 2、手动实现懒加载，尽量提升app启动加载速度，冷启动是个啥<br>
-3、</p>
+3、防破解、唯一id标识符</p>
+<p><strong>注意的事项:</strong><br>
+1、sdk27+,是无法http请求的，需要在Amenifest中配置<br>
+2、</p>
+<p><strong>bug难点:</strong><br>
+1、首页ui加载的错误问题，滑动出错<br>
+2、引入组件升级库update会导致采集的库(导出) 写入失败 好像是glide库<br>
+https://stackoverflow.com/questions/49901629/glide-showing-error-failed-to-find-generatedappglidemodule<br>
+https://blog.csdn.net/u012814480/article/details/88685292<br>
+https://stackoom.com/question/2mFoj/java-io-IOException-Permission-denied%E6%97%A0%E6%B3%95%E5%88%9B%E5%BB%BA%E6%96%87%E4%BB%B6<br>
+https://stackoom.com/question/2mFoj/java-io-IOException-Permission-denied%E6%97%A0%E6%B3%95%E5%88%9B%E5%BB%BA%E6%96%87%E4%BB%B6<br>
+https://www.coder.work/article/3683436</p>
+<p>3、bitmap截图仍然有可能会发生错误<br>
+4、对于不在当前activity实现的返回自己的应用会在 android 9+以上失效<br>
+5、原生google和xiaomi rom 实现的回到桌面不太一样</p>
 
             </div>
             
