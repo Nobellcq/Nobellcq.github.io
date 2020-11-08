@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nobellcq.github.io</id>
     <title>南极大陆对面的Capehorn</title>
-    <updated>2020-10-22T17:30:12.940Z</updated>
+    <updated>2020-11-08T19:55:31.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nobellcq.github.io"/>
     <link rel="self" href="https://Nobellcq.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://Nobellcq.github.io/images/avatar.png</logo>
     <icon>https://Nobellcq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 南极大陆对面的Capehorn</rights>
+    <entry>
+        <title type="html"><![CDATA[多锤我几次吧 不然怎么进步呢]]></title>
+        <id>https://Nobellcq.github.io/post/duo-chui-wo-ji-ci-ba-bu-ran-zen-me-jin-bu-ni/</id>
+        <link href="https://Nobellcq.github.io/post/duo-chui-wo-ji-ci-ba-bu-ran-zen-me-jin-bu-ni/">
+        </link>
+        <updated>2020-11-08T19:53:03.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微信公众号测试]]></title>
         <id>https://Nobellcq.github.io/post/wei-xin-gong-zhong-hao-ce-shi/</id>
@@ -72,12 +79,5 @@
         <link href="https://Nobellcq.github.io/post/88-you-gan-qiang-lie-yi-yuan-cheng-wei-yi-ge-jie-jue-ta-ren-xu-qiu-de-ren/">
         </link>
         <updated>2020-08-07T16:48:19.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8.7有感]]></title>
-        <id>https://Nobellcq.github.io/post/87-you-gan/</id>
-        <link href="https://Nobellcq.github.io/post/87-you-gan/">
-        </link>
-        <updated>2020-08-06T17:10:31.000Z</updated>
     </entry>
 </feed>
