@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nobellcq.github.io</id>
     <title>南极大陆对面的Capehorn</title>
-    <updated>2020-11-12T19:03:08.039Z</updated>
+    <updated>2020-12-10T03:07:43.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nobellcq.github.io"/>
     <link rel="self" href="https://Nobellcq.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://Nobellcq.github.io/images/avatar.png</logo>
     <icon>https://Nobellcq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 南极大陆对面的Capehorn</rights>
+    <entry>
+        <title type="html"><![CDATA[12.10]]></title>
+        <id>https://Nobellcq.github.io/post/1210/</id>
+        <link href="https://Nobellcq.github.io/post/1210/">
+        </link>
+        <updated>2020-12-10T03:00:47.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11.14有感]]></title>
+        <id>https://Nobellcq.github.io/post/1114-you-gan/</id>
+        <link href="https://Nobellcq.github.io/post/1114-you-gan/">
+        </link>
+        <updated>2020-11-13T18:27:13.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多锤我几次吧 不然怎么进步呢]]></title>
         <id>https://Nobellcq.github.io/post/duo-chui-wo-ji-ci-ba-bu-ran-zen-me-jin-bu-ni/</id>
@@ -65,19 +79,5 @@
         <link href="https://Nobellcq.github.io/post/Autoapp/">
         </link>
         <updated>2020-08-11T19:06:37.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8.9有感]]></title>
-        <id>https://Nobellcq.github.io/post/89-you-gan/</id>
-        <link href="https://Nobellcq.github.io/post/89-you-gan/">
-        </link>
-        <updated>2020-08-08T05:50:06.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8.8有感，强烈意愿成为一个解决他人需求的人]]></title>
-        <id>https://Nobellcq.github.io/post/88-you-gan-qiang-lie-yi-yuan-cheng-wei-yi-ge-jie-jue-ta-ren-xu-qiu-de-ren/</id>
-        <link href="https://Nobellcq.github.io/post/88-you-gan-qiang-lie-yi-yuan-cheng-wei-yi-ge-jie-jue-ta-ren-xu-qiu-de-ren/">
-        </link>
-        <updated>2020-08-07T16:48:19.000Z</updated>
     </entry>
 </feed>
