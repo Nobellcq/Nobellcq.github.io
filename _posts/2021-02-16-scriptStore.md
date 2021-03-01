@@ -1,15 +1,13 @@
-<img src="/images/Screenshot_2021-03-01-13-57-28-685_com.lzt.scriptStore.jpg" alt="Screenshot_2021-03-01-13-57-28-685_com.lzt.scriptStore" style="zoom:25%;" />
+![](/images/snap/scriptStore1.jpg)
 
-![Screenshot_2021-03-01-13-57-34-626_com.lzt.scriptStore](images/Screenshot_2021-03-01-13-57-34-626_com.lzt.scriptStore.jpg)
+![](/images/snap/scriptStore2.jpg)
 
-![Screenshot_2021-03-01-13-57-48-121_com.lzt.scriptStore](images/Screenshot_2021-03-01-13-57-48-121_com.lzt.scriptStore.jpg)
+![](/images/snap/scriptStore3.jpg)
 
-![Screenshot_2021-03-01-13-58-03-555_com.lzt.scriptStore](images/Screenshot_2021-03-01-13-58-03-555_com.lzt.scriptStore.jpg)
+![](/images/snap/scriptStore5.jpg)
 
-![Screenshot_2021-03-01-13-58-08-139_com.lzt.scriptStore](/home/nobel/Desktop/Nobellcq.github.io/images/Screenshot_2021-03-01-13-58-08-139_com.lzt.scriptStore.jpg)
+![](/images/snap/scriptStore6.jpg)
 
-![Screenshot_2021-03-01-13-58-17-381_com.lzt.scriptStore](/home/nobel/Desktop/Nobellcq.github.io/images/Screenshot_2021-03-01-13-58-17-381_com.lzt.scriptStore.jpg)
+![](/images/snap/scriptStore7.jpg)
 
-![Screenshot_2021-03-01-13-58-23-378_com.lzt.scriptStore](/home/nobel/Desktop/Nobellcq.github.io/images/Screenshot_2021-03-01-13-58-23-378_com.lzt.scriptStore.jpg)
-
-![Screenshot_2021-03-01-13-59-19-433_com.lzt.scriptStore](/home/nobel/Desktop/Nobellcq.github.io/images/Screenshot_2021-03-01-13-59-19-433_com.lzt.scriptStore.jpg)
+![](/images/snap/scriptStore8.jpg)
