@@ -44,6 +44,8 @@ view会层叠，特别是Tab
 
 google 的 TalkBack
 
+https://github.com/penglu20/Bigbang  全能分词
+
 全能取词 [BigBang](https://github.com/penglu20/Bigbang)， https://www.jianshu.com/p/60758b3f2c7c 比较好的一个点就是，通过反射获取当前点击view的viewId，从而变相的获取到当前点击的坐标，等等一系列信息，也是其原理。 附带提一个非本应用获取用户点击坐标的操作 https://blog.csdn.net/kunminxu/article/details/102758269
 
 
