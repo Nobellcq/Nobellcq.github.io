@@ -1,5 +1,3 @@
-
-
 # 构建的服务
 
 环境需要
@@ -9,6 +7,10 @@ nodejs, java, python
 mongo, 
 
 nginx
+
+
+java云端加密
+本地bash脚本打包dex
 
 ## python写的那个flask 支付程序
 
