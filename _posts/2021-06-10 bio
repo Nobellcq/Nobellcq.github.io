@@ -1,0 +1,7 @@
+老师早上好，有进展————学会基本使用并且已经测试。
+我下载的是linux版本的flexx， 测试例子我找了开源的文件,BACE_1_ligand.mol2   BACE_1—_receptorH.pdb,这两个例子原本是Autodock vina中docking with macrocycles的例子
+flexx -i BACE_1_ligand.mol2 -p BACE_1_receptorH.pdb -r BACE_1_ligand.mol2 -o output.sdf --thread-count 8
+output都是以.sdf结尾的文件
+intput可以是.sdf或者.mol2 的文件
+具体的操作过程可以分为两种 第一种，继续给入输入文件 protein(可能是用以比较的？ 这个不大理解)，以及refligand(也只支持 .sdf .mol)
+另外一种是，给入输入文件 --docking-definition (以.ecf结尾的文件)
