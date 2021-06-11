@@ -5,3 +5,13 @@ output都是以.sdf结尾的文件
 intput可以是.sdf或者.mol2 的文件
 具体的操作过程可以分为两种 第一种，继续给入输入文件 protein(可能是用以比较的？ 这个不大理解)，以及refligand(也只支持 .sdf .mol)
 另外一种是，给入输入文件 --docking-definition (以.ecf结尾的文件)
+
+以上是基本的试用，测试结果可以跑出，但还是要看具体的意思和
+
+
+docking tutorials
+http://image.sciencenet.cn/olddata/kexue.com.cn/upload/blog/file/2010/8/201085202046634460.pdf
+
+http://infochim.u-strasbg.fr/CS3_2010/Tutorial/Docking/tutorial-DOCKING2010.pdf
+https://www.researchgate.net/publication/47717212_DockoMatic-Automated_ligand_creation_and_docking
+https://www.chemdiv.com/wp-content/uploads/2014/02/GSK3b-Targeted-Library.pdf

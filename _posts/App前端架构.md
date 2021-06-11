@@ -2,6 +2,9 @@
 Accore的设计部分，不可以将 service的配置文件xml放在lib里，这样是出现不了配置文件的
 
 
+# App mobile端部分
+js创建桌面快捷图标 android 
+
 
 ## dex加载技术 
 
