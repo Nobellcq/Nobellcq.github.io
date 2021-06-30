@@ -6,6 +6,7 @@ Accore的设计部分，不可以将 service的配置文件xml放在lib里，这
 js创建桌面快捷图标 android 
 
 
+
 ## dex加载技术 
 
 不落地加载，直接从网络加载，最重要的是被从内存中dump出来
